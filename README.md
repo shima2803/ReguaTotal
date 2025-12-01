@@ -1,8 +1,8 @@
-📌 Navegador de Contratos – GECOBI
+# 📌 Navegador de Contratos – GECOBI
 
 Aplicação em Python (Tkinter + MySQL/PyMySQL) desenvolvida para consultar, filtrar e navegar entre contratos das carteiras Autos, DivZero e Cedidas diretamente no banco GECOBI, de forma rápida, simples e automatizada.
 
-🎯 Motivação do Projeto
+## 🎯 Motivação do Projeto
 
 Este projeto foi criado para automatizar um processo interno que antes tomava muito tempo da equipe.
 
@@ -30,7 +30,7 @@ não há mais espera, filas ou dependência de terceiros.
 
 O resultado é um processo mais rápido, organizado, eficiente e que trouxe autonomia total aos operadores.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 🔎 Consultas inteligentes
 
 Seleção de carteiras
@@ -51,7 +51,7 @@ Quantidade de propostas
 
 Perfil do contrato (informações adicionais e flags)
 
-🎚️ Filtros avançados
+## 🎚️ Filtros avançados
 
 Quebrado / Rejeitado
 
@@ -67,7 +67,7 @@ Amarelo (8 a 30 dias)
 
 Vermelho (> 30 dias)
 
-🧭 Navegação prática
+## 🧭 Navegação prática
 
 Próximo / Anterior
 
@@ -79,7 +79,7 @@ Painel com informações completas do contrato
 
 Perfil do cliente integrado
 
-📧 E-mails e informações adicionais
+## 📧 E-mails e informações adicionais
 
 Busca automática de e-mails do cod_cad
 
@@ -87,7 +87,7 @@ Correção de e-mails digitados incorretamente
 
 Janela dedicada com botão de copiar selecionados/todos
 
-💾 Exportação
+## 💾 Exportação
 
 Exportar toda a lista → CSV
 
@@ -95,7 +95,7 @@ Exportar somente a seleção → CSV
 
 Copiar o registro atual no formato CSV
 
-🎨 Interface personalizada
+## 🎨 Interface personalizada
 
 Tema claro/escuro
 
@@ -111,7 +111,7 @@ tema
 
 modo escuro
 
-🔐 Segurança
+## 🔐 Segurança
 
 Nenhuma senha fica no código.
 
@@ -119,7 +119,7 @@ As credenciais são carregadas automaticamente do arquivo seguro:
 
 \\fs01\ITAPEVA ATIVAS\DADOS\SA_Credencials.txt
 
-▶️ Como executar
+# ▶️ Como executar
 
 Instale o Python 3.10+
 
